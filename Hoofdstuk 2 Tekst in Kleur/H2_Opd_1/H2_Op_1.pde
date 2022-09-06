@@ -1,0 +1,13 @@
+print("ik ben morad ");
+println("bouzaggou");
+println("ik probeer");
+print("de print println ");
+print("te leren ");
+print("door deze opdracht ");
+println("te maken");
+println("ik");
+println("begrijp");
+println("de");
+println("print");
+print("println ");
+print("inmiddels");
